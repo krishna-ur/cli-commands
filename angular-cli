@@ -1,1 +1,3 @@
-ng new AppName    --> created new angular app
+ng new AppName    --> created new angular application
+ng serve          --> build and run angular application
+angular material  --> https://material.angular.io/guide/getting-started
