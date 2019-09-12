@@ -1,3 +1,6 @@
 ng new AppName    --> created new angular application
 ng serve          --> build and run angular application
-angular material  --> https://material.angular.io/guide/getting-started
+ng install        --> use while running code for first time downloaded from from git or any other source
+ng add @angular/material    --> adding angular-material to the project
+ng g c CmpName    -->Creating component | imports automatically in app.module.ts
+
